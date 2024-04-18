@@ -39,9 +39,9 @@ function! gruvbox_material#get_palette(background, foreground, colors_override) 
     if &background ==# 'dark'
       let palette1 = {
             \ 'bg_dim':           ['#141617',   '232'],
-            \ 'bg0':              ['#1d2021',   '234'],
+            \ 'bg0':              ['#121212',   '232'],
             \ 'bg1':              ['#282828',   '235'],
-            \ 'bg2':              ['#282828',   '235'],
+            \ 'bg2':              ['#1c1c1c',   '233'],
             \ 'bg3':              ['#3c3836',   '237'],
             \ 'bg4':              ['#3c3836',   '237'],
             \ 'bg5':              ['#504945',   '239'],
